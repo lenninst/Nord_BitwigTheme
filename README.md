@@ -3,7 +3,7 @@ Este tema esta inspirado en la paletta de colores [Nord](https://www.nordtheme.c
 
 # Instalacion 
 - Siga los pasos recomendados por [Berikai](https://github.com/Berikai/bitwig-theme-editor.git)
-- Descargue el archivo `Nord.json`
+- Descargue el archivo `nord.json`
 - De manera **opcional** puede usar la paleta de colores que se encuentra en la carpeta `palette`
 
 # Capturas
