@@ -16,4 +16,4 @@ Configuracion de las capturas en bitwig
 ![Mixer](img/Nord_BitwigTheme_Mixer.png)
 ![TheGrid](img/Nord_BitwigTheme_TheGrid.png)
 ![Devices](img/Nord_BitwigTheme_Editor_Automation.png)
-![Devices](img/Nord_BitwigTheme_Editor_PianoRoll.png)
+![Devices](img/Nord_BitwigTheme_PianoRoll.png)
